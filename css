@@ -9,6 +9,7 @@ body {
     background-color: #1565C0;
     
     
+    
 }
 .Background{
 position: absolute;
@@ -46,18 +47,19 @@ padding: 16px 0px 0px 0px;
 gap: 12px;
 opacity: 0px;
 background-color: #2196F3;
-
+}
 
 .now{
     font-size: xx-small;
     padding-inline: 20px;
+    display: inline-block;
 
 }
 .one{
     font-size: xx-small;
     padding-inline: 20px;
+    display: inline-block;
 
-}
 }
 .container {
     text-align: center;
